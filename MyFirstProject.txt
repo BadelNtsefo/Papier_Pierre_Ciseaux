@@ -1,1 +1,2 @@
-Bonjour badel
+print("Bonjour badel")
+a=5
